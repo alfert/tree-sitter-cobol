@@ -37,3 +37,4 @@ dsl.d.ts
 
 test/cobol85/result/
 test/cobol85/summary.txt
+CMakeFiles/
